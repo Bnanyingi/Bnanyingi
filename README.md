@@ -7,8 +7,8 @@
 -->
 
 
-- 🔭 I’m currently working on react js 
-- 🌱 I’m currently learning python 
+- 🔭 I’m currently working on react js and django
+- 🌱 I’m currently learning python and MachineLearning
 - 👯 I’m looking to collaborate on open source software
 - 🤔 I’m looking for help with react native
 - 💬 Ask me about Machine Learning and front-end web development
