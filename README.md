@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
 
 ![Bnanyingi's GitHub Stats.](https://github-readme-stats.vercel.app/api?username=Bnanyingi&&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919)
 <!--
