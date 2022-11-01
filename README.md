@@ -9,12 +9,12 @@
 -->
 
 
-- 🔭 I’m currently working on react js and django
+- 🔭 I’m currently working on angular and vuejs
 - 🌱 I’m currently learning python and MachineLearning
 - 👯 I’m looking to collaborate on open source software
-- 🤔 I’m looking for help with react native
+- 🤔 I’m looking for help with reactjs
 - 💬 Ask me about Machine Learning and front-end web development
 - 📫 How to reach me: nanyingibarbara@gmail.com
-- 😄 Pronouns: she
-- ⚡ Fun fact: ...
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: The world's first programmer was a woman(Ada Lovelace)
 
